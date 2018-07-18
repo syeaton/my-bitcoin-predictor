@@ -2,7 +2,8 @@
 #   Here we provide a template to precit bitcoin price and deploy   #
 #   at scale on a user-defined schedule, taking advantage of        #
 #   Metis Machine curated data, and external 3rd party data.        #
-# Test comment #1 ...
+
+#  Test comment #3 ...
 
 
 
